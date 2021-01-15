@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**Habibzad/habibzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Ahmad! I am a front-end developer based in Maryland, United States.
 
-Here are some ideas to get you started:
+Coding and reading are my favorite ways of spending my time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build static websites and small scale web applications.
+
+<p><a href="https://habibzad.com/" target="_blank">➡️ Check out my website</a></p>
+
+#### 🧡 &nbsp;&nbsp;My passions
+
+* Technology 
+* Reading
+* Politics
+* Swimming
+* Playing Chess
+
+:page_with_curl: I'm currently:
+
+- 🔭 working on improving my skills
+- 🌱 learning Java on [Udemy](https://www.udemy.com/course/decoding-ap-computer-science-a/); 
+
+
+😄 Pronouns: he/him
+⚡ Fun fact: there’s nothing interesting about me 😄
+📈 I’m comfortable in [HTML, CSS, and Vanilla JavaScript];
+📫 How to reach me: <ahmadhabibzad@gmail.com>;
