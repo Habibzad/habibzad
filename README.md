@@ -21,8 +21,8 @@ I build static websites and small scale web applications.
 - 🔭 working on improving my skills
 - 🌱 learning Java on [Udemy](https://www.udemy.com/course/decoding-ap-computer-science-a/); 
 
-
-😄 Pronouns: he/him
 ⚡ Fun fact: there’s nothing interesting about me 😄
+
 📈 I’m comfortable in [HTML, CSS, and Vanilla JavaScript];
+
 📫 How to reach me: <ahmadhabibzad@gmail.com>;
