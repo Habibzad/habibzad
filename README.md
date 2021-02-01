@@ -17,7 +17,7 @@ I build static websites and small scale web applications.
 * Playing Chess
 
 :page_with_curl: I'm currently learning:
-- Java on [Merit America](https://www.meritamerica.org/); 
+- Java on [Merit America](https://www.meritamerica.org/)
 - Javascript:ES6
 - React
 
