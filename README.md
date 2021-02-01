@@ -2,9 +2,9 @@
 
 I’m Ahmad! I am a front-end developer based in Maryland, United States.
 
-Coding and reading are my favorite ways of spending my time.
-
 I build static websites and small scale web applications.
+
+I like to spend my time coding and reading.
 
 <p><a href="https://habibzad.dev/" target="_blank">➡️ Check out my website</a></p>
 
