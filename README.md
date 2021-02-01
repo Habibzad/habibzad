@@ -6,7 +6,7 @@ Coding and reading are my favorite ways of spending my time.
 
 I build static websites and small scale web applications.
 
-<p><a href="https://habibzad.com/" target="_blank">➡️ Check out my website</a></p>
+<p><a href="https://habibzad.dev/" target="_blank">➡️ Check out my website</a></p>
 
 #### 🧡 &nbsp;&nbsp;My passions
 
@@ -16,10 +16,10 @@ I build static websites and small scale web applications.
 * Swimming
 * Playing Chess
 
-:page_with_curl: I'm currently:
-
-- 🔭 working on improving my skills
-- 🌱 learning Java on [Udemy](https://www.udemy.com/course/decoding-ap-computer-science-a/); 
+:page_with_curl: I'm currently learning:
+- Java on [Merit America](https://www.meritamerica.org/); 
+- Javascript:ES6
+- React
 
 ⚡ Fun fact: there’s nothing interesting about me 😄
 
