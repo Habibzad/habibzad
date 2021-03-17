@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Ahmad! I am a front-end developer based in Maryland, United States.
+I’m Ahmad! I am a Java Full Stack developer in training based in Maryland, United States.
 
 I build static websites and small scale web applications.
 
