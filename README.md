@@ -2,8 +2,6 @@
 
 I’m Ahmad! I am a Java Full Stack developer in training based in Maryland, United States.
 
-I build static websites and small scale web applications.
-
 I like to spend my time coding and reading.
 
 <p><a href="https://habibzad.dev/" target="_blank">➡️ Check out my website</a></p>
