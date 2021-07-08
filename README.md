@@ -15,7 +15,7 @@ I like to spend my time coding and reading.
 * Playing Chess
 
 :page_with_curl: I'm currently learning:
-- Java EE at [Merit America](https://www.meritamerica.org/)
+- Java Full Stack Development at [Merit America](https://www.meritamerica.org/)
 - Javascript:ES6 on [FreeCodeCamp](https://www.freecodecamp.org/)
 - React on [Scrimba](https://scrimba.com/learn/learnreact/course-introduction-learning-philosophy-cWKkvVuL)
 
