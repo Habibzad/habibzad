@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I’m Ahmad! I am a Java Full Stack developer in training based in Maryland, United States.
+I’m Ahmad! I am a Java Full Stack developer based in Maryland, United States.
+
+I recently completed a full stack development bootcamp where I learned to build full stack apps using Java, Spring Boot, MySQL, ReactJS and Bootstrap. 
 
 I like to spend my time coding and reading.
 
